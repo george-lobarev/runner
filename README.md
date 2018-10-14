@@ -1,1 +1,2 @@
-# RunnerOpenGL
+# runner
+Simple runner with LWJGL
